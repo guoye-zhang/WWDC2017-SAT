@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>Why is the extension still here?</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Why did we mention `nil` in the introduction?</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>**SAT** solver stops once it found the first solution, and it&apos;s not designed to enumerate all satisfying assignments. So why not look the other way around, and prove the opposite unsatisfiable?</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>`(!lhs.iff(rhs)).solve() == nil`</string>
+			<key>SpoilerButtonTitle</key>
+			<string>Show Solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>

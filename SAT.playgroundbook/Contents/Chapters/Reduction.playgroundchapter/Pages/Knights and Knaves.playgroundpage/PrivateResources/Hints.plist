@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>What are the possible assignments for **A** and **B** when they are same vs different?</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>```
+a.iff((a &amp;&amp; b) || (!a &amp;&amp; !b)) &amp;&amp;
+b.iff((a &amp;&amp; !b) || (!a &amp;&amp; b))
+```
+
+or
+
+`a.iff(a.iff(b)) &amp;&amp; b.iff(a.iff(!b))`</string>
+			<key>SpoilerButtonTitle</key>
+			<string>Show Solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Boolean</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type which can be either `true` or `false`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/Boolean%20Expression</string>
+				<key>Title</key>
+				<string>Boolean Expression</string>
+			</dict>
+		</dict>
+		<key>Boolean Satisfiability Problem</key>
+		<dict>
+			<key>Definition</key>
+			<string>The problem of determining if there exists an interpretation that satisfies a given Boolean formula.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/Introduction</string>
+				<key>Title</key>
+				<string>Introduction</string>
+			</dict>
+		</dict>
+		<key>CNF</key>
+		<dict>
+			<key>Definition</key>
+			<string>In Boolean logic, a formula is in conjunctive normal form (CNF) or clausal normal form if it is a conjunction of clauses, where a clause is a disjunction of literals; otherwise put, it is an AND of ORs</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/CNF</string>
+				<key>Title</key>
+				<string>CNF</string>
+			</dict>
+		</dict>
+		<key>Crossword</key>
+		<dict>
+			<key>Definition</key>
+			<string>A word puzzle that normally takes the form of a square or a rectangular grid of white and black shaded squares. The goal is to fill the white squares with letters, forming words or phrases.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/Introduction</string>
+				<key>Title</key>
+				<string>Introduction</string>
+			</dict>
+		</dict>
+		<key>Declarative programming</key>
+		<dict>
+			<key>Definition</key>
+			<string>a programming paradigm that expresses the logic of a computation without describing its control flow.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/Introduction</string>
+				<key>Title</key>
+				<string>Introduction</string>
+			</dict>
+		</dict>
+		<key>NP-complete</key>
+		<dict>
+			<key>Definition</key>
+			<string>NP-complete problems are in NP, the set of all decision problems whose solutions can be verified in polynomial time, but there is no known efficient way to locate a solution. A problem *p* in NP is NP-complete if every other problem in NP can be transformed (or reduced) into *p* in polynomial time.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>SAT/Boolean%20Expression</string>
+				<key>Title</key>
+				<string>Boolean Expression</string>
+			</dict>
+		</dict>
+		<key>Trie</key>
+		<dict>
+			<key>Definition</key>
+			<string>An ordered tree data structure where all the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Crossword/Trie</string>
+				<key>Title</key>
+				<string>Trie</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
